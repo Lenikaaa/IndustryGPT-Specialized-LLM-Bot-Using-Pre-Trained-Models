@@ -141,6 +141,11 @@ TourismGPT/
 ├── screenshots/
 ├── README.md
 
+> **Note:** The original Wikivoyage XML dump used to build the knowledge base is not included in this GitHub repository because of its large size. The processed training dataset and the scripts required to recreate the knowledge base are provided.
+
+> **Note:** The fine-tuned LoRA adapter is available in the project submission package (Google Drive). It is not stored in this repository due to its size.
+> 
+GOOGLE DRIVE LINK : https://drive.google.com/drive/folders/1BsEIst98ry41Ra8TfYI7zbFpVkPBwM0D?usp=sharing
 ---
 
 # ⚙️ Installation
