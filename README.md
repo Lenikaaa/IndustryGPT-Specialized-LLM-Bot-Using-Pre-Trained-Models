@@ -142,6 +142,8 @@ TourismGPT/
 ├── README.md
 
 > **Note:** The original Wikivoyage XML dump used to build the knowledge base is not included in this GitHub repository because of its large size. The processed training dataset and the scripts required to recreate the knowledge base are provided.
+>
+> **Note:** The FAISS vector index (`wikivoyage.index` and `chunks.pkl`) and the fine-tuned LoRA adapter are not included in this GitHub repository because they are generated project artifacts and can be recreated using the provided notebooks. These files are included in the project submission package (Google Drive).
 
 > **Note:** The fine-tuned LoRA adapter is available in the project submission package (Google Drive). It is not stored in this repository due to its size.
 > 
